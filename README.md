@@ -46,7 +46,6 @@
 </div>
 
 
-![Snake animation](https://github.com/calinathalya/calinathalya/blob/output/github-contribution-grid-snake.svg)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>
