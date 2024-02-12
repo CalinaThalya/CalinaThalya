@@ -20,8 +20,6 @@
       <img align="center" alt="Calina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="Calina-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <div/>
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=calinathalya&bg_color=0d1117&color=A171E3&line=A171E3&point=A171E3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
