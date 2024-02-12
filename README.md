@@ -8,6 +8,8 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=calinathalya&show_icons=true&count_private=true&hide_border=true&title_color=A171E3&icon_color=FFFFFF&text_color=A171E3&bg_color=121212" alt="Calina Thalya github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calinathalya&layout=compact&hide_border=true&title_color=A171E3&text_color=FF00FF&bg_color=0d1117" />
 </div>
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div style="display: inline_block"><br>
       <img align="center" alt="Calina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,6 +19,8 @@
       <img align="center" alt="Calina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="Calina-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <div/>
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=calinathalya&bg_color=0d1117&color=A171E3&line=A171E3&point=A171E3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -25,6 +29,8 @@
  <a href = "mailto:calinathalya77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/calina-thalya-521578271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
