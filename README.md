@@ -4,8 +4,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="380px" width="380px" align="right" alt="Computador iuriCode">
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=calinathalya&show_icons=true&count_private=true&hide_border=true&title_color=A171E3&icon_color=FFFFFF&text_color=A171E3&bg_color=121212" alt="Calina Thalya github stats" /> 
+
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=CalinaThalya&cc=ffffff&tc=8A2BE2&ic=8A2BE2 "Stats")](https://github.com/CalinaThalya "Stats")
+
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calinathalya&layout=compact&hide_border=true&title_color=A171E3&text_color=FF00FF&bg_color=0d1117" />
 </div>
 <!--📏LINE-->
@@ -37,14 +38,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{calinathalya}/count.svg" /></p> 
 <br>
 </div>
-
-
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="100%">
 
 
 
