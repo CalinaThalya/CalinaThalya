@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=CalinaThalya&cc=ffffff&tc=8A2BE2&ic=8A2BE2 "Stats")](https://github.com/CalinaThalya "Stats")
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=CalinaThalya&cc=0d1117&tc=8A2BE2&ic=8A2BE2 "Stats")](https://github.com/CalinaThalya "Stats")
 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calinathalya&layout=compact&hide_border=true&title_color=A171E3&text_color=FF00FF&bg_color=0d1117" />
 </div>
