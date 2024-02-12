@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="380px" width="380px" align="right" alt="Computador iuriCode">
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=calinathalya&show_icons=true&count_private=true&hide_border=true&title_color=A171E3&icon_color=FFFFFF&text_color=A171E3&bg_color=0d1117" alt="Calina Thalya github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=calinathalya&show_icons=true&count_private=true&hide_border=true&title_color=A171E3&icon_color=FFFFFF&text_color=A171E3&bg_color=121212" alt="Calina Thalya github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calinathalya&layout=compact&hide_border=true&title_color=A171E3&text_color=FF00FF&bg_color=0d1117" />
 </div>
 
