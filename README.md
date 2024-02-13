@@ -13,6 +13,7 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+
 <div style="display: inline_block"><br>
       <img align="center" alt="Calina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="VsCode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
@@ -23,6 +24,8 @@
    <div/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=calinathalya&bg_color=0d1117&color=A171E3&line=A171E3&point=A171E3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center"> 
 <a href="https://instagram.com/calinathalya" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
