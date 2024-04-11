@@ -40,8 +40,3 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{calinathalya}/count.svg" /></p> 
 <br>
 </div>
-
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A171E3&height=120&section=footer"/>
