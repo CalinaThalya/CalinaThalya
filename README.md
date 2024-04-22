@@ -1,3 +1,4 @@
+## Can you please give me an internship?
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A171E3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Calina+Thalya;I'm+from+Brazil;I+do+Graduation+Systems+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
