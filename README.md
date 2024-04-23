@@ -32,6 +32,7 @@
       <img align="center" src="https://github.com/CalinaThalya/CalinaThalya/assets/116985483/1df24bdd-9a72-4c4f-bf32-1f6c2ce8c156" width="30" height="30" title="Java">
      <img align="center"  src= "https://github.com/CalinaThalya/CalinaThalya/assets/116985483/84e47bbe-54e9-4687-a9fb-edeeed32d773" width='30' height="30" title='DOCKER'>
 <div/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=calinathalya&bg_color=0d1117&color=A171E3&line=ff91a4&point=A171E3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--📏LINE-->
