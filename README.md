@@ -1,8 +1,8 @@
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A171E3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Calina+Thalya;I'm+from+Brazil;I+do+Graduation+Systems+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 
 <img src= "https://github.com/CalinaThalya/CalinaThalya/assets/116985483/203bf0cb-a4cc-4215-bc31-95f5c70abc75" min-width="300px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -13,8 +13,8 @@
 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calinathalya&layout=compact&hide_border=true&title_color=A171E3&text_color=FF00FF&bg_color=0d1117&langs_count=10" />
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 
 <h3 align= "left"> Main skills: </h3>
 <div style="display: inline_block"><br>
