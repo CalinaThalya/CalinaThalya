@@ -13,7 +13,6 @@
 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calinathalya&layout=compact&hide_border=true&title_color=A171E3&text_color=FF00FF&bg_color=0d1117&langs_count=10" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 
 <h3 align= "left"> Main skills: </h3>
