@@ -22,10 +22,10 @@
       <img align="center" alt="Calina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">
       <img align="center" alt="Calina-Python" height="45" width="45" src="https://github.com/CalinaThalya/CalinaThalya/assets/116985483/1cd3da5e-5528-4320-8ec6-40a959cc4bdf" title="MySQL">
       <img align="center" alt="Calina-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
+      <img align="center" src="https://github.com/CalinaThalya/CalinaThalya/assets/116985483/1df24bdd-9a72-4c4f-bf32-1f6c2ce8c156" width="30" height="30" title="Java">
   <h3 align="left"> Studying in this moment: </h3>
       <img align="center" src="https://github.com/CalinaThalya/CalinaThalya/assets/116985483/e3dfcbd7-486a-4b03-93ae-fa155eee03fb" width='30' height="30" title='C#'>
       <img align="center" src= "https://github.com/CalinaThalya/CalinaThalya/assets/116985483/f3c96fe9-cd57-4715-a980-87b77dee2f49" width='30' height="30" title='.NET'>
-      <img align="center" src="https://github.com/CalinaThalya/CalinaThalya/assets/116985483/1df24bdd-9a72-4c4f-bf32-1f6c2ce8c156" width="30" height="30" title="Java">
      <img align="center"  src= "https://github.com/CalinaThalya/CalinaThalya/assets/116985483/84e47bbe-54e9-4687-a9fb-edeeed32d773" width='30' height="30" title='DOCKER'>
 <div/>
 
