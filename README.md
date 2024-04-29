@@ -11,8 +11,8 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calinathalya&layout=compact&hide_border=true&title_color=A171E3&text_color=FF00FF&bg_color=0d1117&langs_count=10" />
 
 
-
-<h3 align= "left"> Main skills: </h3>
+<h3 align= "left" width = 60px
+ <picture><img src= "https://github.com/CalinaThalya/CalinaThalya/assets/116985483/3432b70f-aaed-4b0c-8bd1-d7f6d756fe2b" align= "left" width = 60px></picture> Main skills: </h3>
 <div style="display: inline_block"><br>
       <img align="center" src= "https://github.com/CalinaThalya/CalinaThalya/assets/116985483/41ebaa5a-e67f-425d-9ae9-a06f27db909a"width='30' height="30" title='Angular'>
       <img align="center" height="30" width="40" src= "https://github.com/CalinaThalya/CalinaThalya/assets/116985483/9798db2c-1f95-4756-8b6a-aff68992b1cc" title="TS">
@@ -24,7 +24,8 @@
       <img align="center" alt="Calina-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
       <img align="center" src="https://github.com/CalinaThalya/CalinaThalya/assets/116985483/1df24bdd-9a72-4c4f-bf32-1f6c2ce8c156" width="30" height="30" title="Java">
       <img align="center" src="https://github.com/CalinaThalya/CalinaThalya/assets/116985483/bf6452c3-2bdd-47b5-aa12-292b0c41087a" width="30" height="30" title="Spŕing">
-  <h3 align="left"> Studying in this moment: </h3>
+  <h3 align="left"
+ <picture><img src= "https://github.com/CalinaThalya/CalinaThalya/assets/116985483/41cecad7-2a28-4563-b13e-411e535a5292" align= "left" width = 60px></picture>Studying in this moment: </h3>
       <img align="center" src="https://github.com/CalinaThalya/CalinaThalya/assets/116985483/e3dfcbd7-486a-4b03-93ae-fa155eee03fb" width='30' height="30" title='C#'>
       <img align="center" src= "https://github.com/CalinaThalya/CalinaThalya/assets/116985483/f3c96fe9-cd57-4715-a980-87b77dee2f49" width='30' height="30" title='.NET'>
       <img align="center"  src= "https://github.com/CalinaThalya/CalinaThalya/assets/116985483/84e47bbe-54e9-4687-a9fb-edeeed32d773" width='30' height="30" title='DOCKER'>
