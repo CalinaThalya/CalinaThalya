@@ -11,8 +11,8 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calinathalya&layout=compact&hide_border=true&title_color=A171E3&text_color=FF00FF&bg_color=0d1117&langs_count=10" />
 
 
-<h3 align= "left" width = 60px 
- <picture><img src= "https://github.com/CalinaThalya/CalinaThalya/assets/116985483/3432b70f-aaed-4b0c-8bd1-d7f6d756fe2b" align= "left" width = 60px></picture  > Main skills: </h3>
+ ### <picture><img src= "https://github.com/CalinaThalya/CalinaThalya/assets/116985483/3432b70f-aaed-4b0c-8bd1-d7f6d756fe2b" align= "left" width = 60px></picture>
+ <h3 align="left"> Main skills:</h3>
 <div style="display: inline_block"><br>
       <img align="center" src= "https://github.com/CalinaThalya/CalinaThalya/assets/116985483/41ebaa5a-e67f-425d-9ae9-a06f27db909a"width='30' height="30" title='Angular'>
       <img align="center" height="30" width="40" src= "https://github.com/CalinaThalya/CalinaThalya/assets/116985483/9798db2c-1f95-4756-8b6a-aff68992b1cc" title="TS">
