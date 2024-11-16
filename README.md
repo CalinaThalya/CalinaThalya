@@ -11,8 +11,9 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calinathalya&layout=compact&hide_border=true&title_color=A171E3&text_color=FF00FF&bg_color=0d1117&langs_count=10" />
 
 
- ### <picture><img src= "https://github.com/CalinaThalya/CalinaThalya/assets/116985483/3432b70f-aaed-4b0c-8bd1-d7f6d756fe2b" align= "left" width = 60px></picture>
- <h3 align="left"> Main skills:</h3>
+  <h3 align="left"
+ <picture><img src= "https://github.com/CalinaThalya/CalinaThalya/assets/116985483/41cecad7-2a28-4563-b13e-411e535a5292" align= "left" width='50' height="50"></picture></h3>
+<div/> <h3 align="left"> Main skills:</h3>
 <div style="display: inline_block"><br>
   <img align="center" src="https://github.com/CalinaThalya/CalinaThalya/assets/116985483/1df24bdd-9a72-4c4f-bf32-1f6c2ce8c156" width="30" height="30" title="Java">
   <img align="center" src="https://github.com/CalinaThalya/CalinaThalya/assets/116985483/bf6452c3-2bdd-47b5-aa12-292b0c41087a" width="30" height="30" title="Spŕing">
@@ -25,9 +26,6 @@
         <img align="center" src= "https://github.com/CalinaThalya/CalinaThalya/assets/116985483/f3c96fe9-cd57-4715-a980-87b77dee2f49" width='30' height="30" title='.NET'>
               <img align="center" src="https://github.com/CalinaThalya/CalinaThalya/assets/116985483/e3dfcbd7-486a-4b03-93ae-fa155eee03fb" width='30' height="30" title='C#'>
 
-  <h3 align="left"
- <picture><img src= "https://github.com/CalinaThalya/CalinaThalya/assets/116985483/41cecad7-2a28-4563-b13e-411e535a5292" align= "left" width='50' height="50"></picture></h3>
-<div/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=calinathalya&bg_color=0d1117&color=A171E3&line=ff91a4&point=A171E3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
