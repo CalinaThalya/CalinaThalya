@@ -36,10 +36,3 @@
 <a href="https://www.linkedin.com/in/calina-thalya-521578271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-
- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{calinathalya}/count.svg" /></p> 
-<br>
-</div>
