@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<img src="https://github.com/CalinaThalya/CalinaThalya/assets/116985483/203bf0cb-a4cc-4215-bc31-95f5c70abc75" width="180px" align="right" alt="Illustration">
+<img src="https://github.com/CalinaThalya/CalinaThalya/assets/116985483/203bf0cb-a4cc-4215-bc31-95f5c70abc75" width="100px" align="right" alt="Illustration">
 
 <div align="left">
   <img src="https://github.com/CalinaThalya/CalinaThalya/assets/116985483/41cecad7-2a28-4563-b13e-411e535a5292" width="45" height="45" align="left" style="margin-right: 10px;">
