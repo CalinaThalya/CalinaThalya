@@ -10,10 +10,11 @@
   <b>Technical Skills</b>
 
 </div>
-      <img src="https://github.com/CalinaThalya/CalinaThalya/assets/116985483/203bf0cb-a4cc-4215-bc31-95f5c70abc75" width="180px" align="right" alt="Illustration">
 
 
 <table>
+        <img src="https://github.com/CalinaThalya/CalinaThalya/assets/116985483/203bf0cb-a4cc-4215-bc31-95f5c70abc75" width="180px" align="right" alt="Illustration">
+
   <tr>
     <td align="left" valign="top">
       <strong>Back-end</strong><br>
